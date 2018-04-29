@@ -7,4 +7,7 @@ Forked from https://github.com/WhatsNewSaes/Skeleton-Sass
 ```
 $ npm install
 $ npm start
+$ http-server .
 ```
+
+TODO: add local server to gruntfile
